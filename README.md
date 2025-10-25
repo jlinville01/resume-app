@@ -1,8 +1,6 @@
 # Resume
 
-The objective of this application was to create a rails application that could double as a digital resume as well as portfolio item including unit and frontend integration tests.
-
-# Setting up Locally
+## Setting up Locally
 
 1. Clone the repo.
 2. `cd /resume`.
